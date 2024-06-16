@@ -22,7 +22,11 @@ int main(){
 
   if(mark >= 50 && mark <=100){
     print("Passed");
-  }else {
+  }
+  else if(mark >100){
+    print("Invalid mark");
+  }
+  else {
     print("Failed");
   }
   return 0;
