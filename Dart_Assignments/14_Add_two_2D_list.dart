@@ -1,4 +1,4 @@
-// 14.Write a program to add to two dimensional arrays
+// 14.Write a program to add to two dimensional lists
 
 import 'dart:io';
 

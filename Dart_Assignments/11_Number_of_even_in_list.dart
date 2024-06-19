@@ -1,4 +1,4 @@
-// 11. Write a program to find the number of even numbers in an array
+// 11. Write a program to find the number of even numbers in an list
 
 import 'dart:io';
 

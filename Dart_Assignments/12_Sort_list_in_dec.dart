@@ -1,4 +1,4 @@
-// 12. Write a program to sort an array in descending order
+// 12. Write a program to sort an list in descending order
 
 import 'dart:io';
 

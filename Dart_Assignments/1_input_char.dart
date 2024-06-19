@@ -11,5 +11,4 @@ void main(){
   else {
     print("Enter one character");
   }
-
 }

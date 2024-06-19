@@ -1,4 +1,4 @@
-// 10. Write a program to interchange the values of two arrays.
+// 10. Write a program to interchange the values of two list.
 
 import 'dart:io';
 
@@ -6,7 +6,7 @@ int main() {
   List<int> list1 = [], list2 = [];
   int limit;
 
-  stdout.write("Enter the limit: ");
+  stdout.write("Enter the list limit: ");
   String input = stdin.readLineSync()!;
   try {
     limit = int.parse(input);
